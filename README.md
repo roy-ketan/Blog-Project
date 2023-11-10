@@ -1,2 +1,2 @@
-# cd Mysite
-# python manage.py runserver
+cd Mysite
+python manage.py runserver
