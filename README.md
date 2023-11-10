@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```bash
-cd Mysite
+cd MySite
 
 python manage.py runserver
 
